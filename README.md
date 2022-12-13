@@ -3,7 +3,7 @@
 
 - 💡 I’m interested in <b>Front End Development</b>
 
-- 🌐 Know more about me at
+- 🌐 Know more about me at https://bharathiv-portfolio.netlify.app/
 
 - 🌱 I’m currently learning <b>ReactJs</b>
 
